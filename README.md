@@ -1,5 +1,5 @@
-# 08_BayuKrisna_XIRPL1_ASP_MVC_2_Modul1
-Tugas Modul 1 Desktop Semester 2
+# 08_BayuKrisna_XIRPL1_ASP_MVC_2_Modul2
+Tugas Modul 2 Desktop Semester 2
 
 ### A. Judul Projek atau Aplikasi
 asp_mvc_2
